@@ -50,7 +50,7 @@ skylyne.obyemPlus()
 dump(skylyne)
 
 
- 2
+// 2
 
 class Shop{
 
